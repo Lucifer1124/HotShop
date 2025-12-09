@@ -7,19 +7,7 @@ E-commerce Website using React and Redux for Front-end, Java Springboot, Java Ma
 
 *** If you want to run the project on your system follow these steps to do so
 
-for backend (spring boot)
-=> open in IntelliJ idea
-change db creadential in application.properties file
-
-=> username
-=> password
-=> and create database
-=> change razorpay api & secret
-=> give your gmail and app password 
-=> give your gemini api key
-
-=> now run app
-
+***Backend setup is for paid customers only
 
 for frontend (React)
 
@@ -29,3 +17,7 @@ for frontend (React)
 => type npm run start 
 
 then signup by going to the web host server.
+
+Rest you'll and checkout the PPTx file for all the information about the project and have an over look and insights on the project
+
+THANKYOU for being paitent and reading this far :)
